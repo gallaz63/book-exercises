@@ -1,7 +1,7 @@
 # Exercise 2
 In this exercise, you'll practice resolving a merge conflict.
 
-> This is a line you will change!
+> Family is everything
 
 To complete the exercise, follow the below steps:
 
